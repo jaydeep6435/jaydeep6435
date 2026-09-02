@@ -1,22 +1,16 @@
-# 🌸 GitHub Profile README
-
 <div align="center">
 
-# Hey there, I'm Jaydeep Dongre 👋
+# 👋 Hey, I'm Jaydeep Dongre
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineering+Student;Python+%7C+Django+%7C+Data+Structures;Web+Development+%7C+IoT;Building+Ideas+Into+Real-World+Projects" alt="Typing SVG" />
-</a>
+### AI & Data Science Engineering Student • Developer • Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Python+%7C+Django+%7C+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+Ideas+Into+Real-World+Projects" alt="Typing SVG">
 
 <br>
 
-<a href="https://github.com/jaydeep6435">
-  <img src="https://img.shields.io/github/followers/jaydeep6435?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" />
-</a>
-<a href="https://github.com/jaydeep6435?tab=repositories">
-  <img src="https://img.shields.io/github/stars/jaydeep6435?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=jaydeep6435&label=Profile%20Views&style=for-the-badge&color=FF69B4&labelColor=1a1a1a" />
+<img src="https://komarev.com/ghpvc/?username=jaydeep6435&label=Profile%20Views&color=EF93C4&style=flat-square">
+<img src="https://img.shields.io/github/followers/jaydeep6435?label=Followers&color=F8BBD0&style=flat-square">
+<img src="https://img.shields.io/github/stars/jaydeep6435?label=Stars&color=FF69B4&style=flat-square">
 
 </div>
 
@@ -24,43 +18,25 @@
 
 ## 🌸 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<div align="center">
 
-### 👨‍💻 Hey, I'm Jaydeep!
+| 👨‍💻 | About Me |
+|---|---|
+| 🎓 | AI & Data Science Engineering Student |
+| 🐍 | Python & Django Developer |
+| 🌐 | Exploring Web Development |
+| 🧠 | Learning Data Structures & Algorithms |
+| 📡 | Interested in IoT & Emerging Technologies |
+| 🚀 | Building practical and real-world projects |
+| 💡 | Always learning something new |
 
-I'm an **AI & Data Science Engineering student** passionate about turning ideas into practical, real-world projects.
+</div>
 
-- 🎓 Engineering Student
-- 🤖 Interested in **AI & Data Science**
-- 🌐 Exploring **Web Development**
-- 🐍 Working with **Python & Django**
-- 🧠 Learning **Data Structures & Algorithms**
-- 📡 Interested in **IoT & emerging technologies**
-- 🚀 Building projects and continuously improving my skills
-- 💡 Always curious to learn, experiment and create
+<div align="center">
 
-<br>
+### ✨ Learn continuously • Build consistently • Keep improving 🚀
 
-**My goal:**  
-> Learn continuously. Build consistently. Create something meaningful. 🚀
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://github.com/jaydeep6435.png" width="220" style="border-radius:50%;" alt="Jaydeep Dongre"/>
-
-<br><br>
-
-<a href="https://github.com/jaydeep6435">
-<img src="https://img.shields.io/badge/GitHub-jaydeep6435-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -70,31 +46,37 @@ I'm an **AI & Data Science Engineering student** passionate about turning ideas 
 
 ### 💻 Languages
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,html,css,javascript&theme=light" /></a>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript&perline=7">
 
-### 🌐 Web & Frameworks
+<br><br>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=django,flutter&theme=light" /></a>
+### 🌐 Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=django,flutter&perline=7">
+
+<br><br>
 
 ### 🗄️ Database & Tools
 
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman&theme=light" /></a>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman&perline=7">
 
-### 🤖 AI / Data
+<br><br>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,tensorflow&theme=light" /></a>
+### 🤖 AI & Data
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow&perline=7">
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydeep6435&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&ring_color=EF93C4" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jaydeep6435&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=C9D1D9">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep6435&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=FFFFFF" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep6435&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=C9D1D9">
 
 </div>
 
@@ -104,7 +86,7 @@ I'm an **AI & Data Science Engineering student** passionate about turning ideas 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jaydeep6435&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+<img src="https://streak-stats.demolab.com?user=jaydeep6435&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E">
 
 </div>
 
@@ -114,7 +96,7 @@ I'm an **AI & Data Science Engineering student** passionate about turning ideas 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydeep6435&bg_color=00000000&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydeep6435&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=Jaydeep%27s%20Contribution%20Graph" width="95%">
 
 </div>
 
@@ -124,65 +106,74 @@ I'm an **AI & Data Science Engineering student** passionate about turning ideas 
 
 <div align="center">
 
-<!-- Contribution Snake generated by GitHub Actions -->
-
-<img src="https://raw.githubusercontent.com/jaydeep6435/jaydeep6435/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/jaydeep6435/jaydeep6435/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 <div align="center">
 
 <a href="https://github.com/jaydeep6435/Polls_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=Polls_Project&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=Polls_Project&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=C9D1D9">
 </a>
 
 <a href="https://github.com/jaydeep6435/Django_Polls_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=Django_Polls_Project&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=Django_Polls_Project&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=C9D1D9">
+</a>
+
+<br><br>
+
+<a href="https://github.com/jaydeep6435?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-EF93C4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/jaydeep6435">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-jaydeep6435-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/jaydeep-dongre-1609132b5/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Jaydeep%20Dongre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-FE2C55?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://youtube.com/@YOUR_USERNAME">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/@YOUR_USERNAME">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 💭 A Little More About Me
-
 <div align="center">
 
-```text
-💻 Code     →     🧠 Learn     →     🚀 Build     →     🌱 Improve
+### 🌸 Thanks for stopping by!
+
+**See you in the next commit 🚀**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=120&section=footer" width="100%">
+
+</div>
