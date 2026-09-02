@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Jaydeep Dongre
 
-### AI & Data Science Engineer • Developer • Learner
+### AI & Data Science Engineering Student • Developer • Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Engineering+Student;Python+%7C+Django+%7C+Web+Development;Building+Projects+%7C+Learning+Every+Day;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Python+%7C+Django+%7C+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+Ideas+Into+Real-World+Projects" alt="Typing SVG">
 
 <br>
 
@@ -26,19 +26,13 @@
 
 <div align="center">
 
-🎓 **AI & Data Science Engineering Student**
-
-🐍 **Python & Django Developer**
-
-🌐 **Web Development Enthusiast**
-
-🧠 **Data Structures & Algorithms**
-
-📡 **IoT & Emerging Technologies**
-
-🚀 **Building Real-World Projects**
-
-💡 **Always Learning & Exploring**
+🎓 AI & Data Science Engineering Student  
+🐍 Python & Django Developer  
+🌐 Exploring Web Development  
+🧠 Learning Data Structures & Algorithms  
+📡 Interested in IoT & Emerging Technologies  
+🚀 Building practical, real-world projects  
+💡 Always learning and experimenting  
 
 </div>
 
@@ -46,7 +40,7 @@
 
 <div align="center">
 
-> **Learn • Build • Improve • Repeat 🚀**
+**✨ Learn continuously • Build consistently • Keep improving ✨**
 
 </div>
 
@@ -66,22 +60,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaydeep6435&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=C9D1D9">
-
-&nbsp;&nbsp;
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep6435&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=EF93C4&text_color=C9D1D9">
-
-</div>
-
----
-
-<div align="center">
-
 ## 🔥 GitHub Streak
 
 <br>
@@ -94,36 +72,48 @@
 
 <div align="center">
 
-## 📈 Contribution Graph
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydeep6435&bg_color=0D1117&color=C9D1D9&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="95%">
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 <br>
 
 <a href="https://github.com/jaydeep6435/Polls_Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=Polls_Project&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=C9D1D9">
+<img src="https://img.shields.io/badge/Polls_Project-EF93C4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://github.com/jaydeep6435/Django_Polls_Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=Django_Polls_Project&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=C9D1D9">
+<img src="https://img.shields.io/badge/Django_Polls_Project-F8BBD0?style=for-the-badge&logo=django&logoColor=black">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/jaydeep6435/polls_Django">
+<img src="https://img.shields.io/badge/polls_Django-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-<a href="https://github.com/jaydeep6435/polls_Django">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=polls_Django&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=C9D1D9">
+<a href="https://github.com/jaydeep6435/arithmetic-payment-app-">
+<img src="https://img.shields.io/badge/Arithmetic_Payment_App-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/jaydeep6435/neupe">
+<img src="https://img.shields.io/badge/Neupe-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/jaydeep6435/PRODIGY_DS_01">
+<img src="https://img.shields.io/badge/PRODIGY_DS_01-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://github.com/jaydeep6435?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Repositories-EF93C4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -132,7 +122,7 @@
 
 <div align="center">
 
-## 🌐 Let's Connect
+## 🤝 Let's Connect
 
 <br>
 
@@ -143,26 +133,20 @@
 &nbsp;
 
 <a href="https://www.linkedin.com/in/jaydeep-dongre-1609132b5/">
-<img src="https://img.shields.io/badge/LinkedIn-Jaydeep%20Dongre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Jaydeep_Dongre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### 💻 Code. Learn. Build. Repeat.
+### 🌸 Thanks for stopping by!
+
+**Code • Learn • Build • Repeat 🚀**
 
 <br>
-
-**See you in the next commit 🚀**
-
-</div>
-
-<br>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=100&section=footer" width="100%">
 
