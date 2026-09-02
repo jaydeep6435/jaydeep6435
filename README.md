@@ -17,10 +17,11 @@
 ### 🌸 About Me
 
 - 🎓 AI & Data Science Engineering Student, based in Pune
-- 🐍 Python & Django developer
-- 🌐 Exploring modern Web Development
-- 🧠 Sharpening Data Structures & Algorithms
-- 📡 Curious about IoT and emerging tech
+- 🎯 **Goal:** Build AI-powered products that solve real-world problems
+- 🐍 Python & Django developer, exploring modern Web Development
+- 🧠 Sharpening Data Structures & Algorithms daily
+- 📡 Curious about IoT, astronomy, and emerging tech
+- ✨ Always chasing the next idea worth building
 - 💡 Learn continuously • Build consistently • Keep improving
 
 ---
@@ -29,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode,tensorflow,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,ts,react,nodejs,express,mysql,mongodb,git,github,vscode,figma,tensorflow,pytorch,docker,linux&theme=dark" />
 
 </div>
 
@@ -39,8 +40,8 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=jaydeep6435&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&ring_color=EF93C4&include_all_commits=true" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jaydeep6435&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaydeep6435&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&ring_color=EF93C4&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep6435&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF&langs_count=8" height="165"/>
 
 </div>
 
@@ -68,15 +69,15 @@
 
 ---
 
-### 🚀 My Projects
+### 📌 Pinned Projects
 
 <div align="center">
 
-[![Polls_Project](https://github-stats-extended.vercel.app/api/pin/?username=jaydeep6435&repo=Polls_Project&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/Polls_Project)
-[![Django_Polls_Project](https://github-stats-extended.vercel.app/api/pin/?username=jaydeep6435&repo=Django_Polls_Project&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/Django_Polls_Project)
+[![Polls_Project](https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=Polls_Project&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/Polls_Project)
+[![Django_Polls_Project](https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=Django_Polls_Project&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/Django_Polls_Project)
 
-[![arithmetic-payment-app](https://github-stats-extended.vercel.app/api/pin/?username=jaydeep6435&repo=arithmetic-payment-app-&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/arithmetic-payment-app-)
-[![PRODIGY_DS_01](https://github-stats-extended.vercel.app/api/pin/?username=jaydeep6435&repo=PRODIGY_DS_01&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/PRODIGY_DS_01)
+[![arithmetic-payment-app](https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=arithmetic-payment-app-&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/arithmetic-payment-app-)
+[![PRODIGY_DS_01](https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=PRODIGY_DS_01&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/PRODIGY_DS_01)
 
 </div>
 
