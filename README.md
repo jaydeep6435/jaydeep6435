@@ -4,136 +4,130 @@
 
 ### AI & Data Science Engineering Student • Developer • Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Python+%7C+Django+%7C+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+Ideas+Into+Real-World+Projects" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineering+Student;Python+%7C+Django+%7C+Web+Development;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG">
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=jaydeep6435&label=Profile%20Views&color=EF93C4&style=flat-square">
-&nbsp;
-<img src="https://img.shields.io/github/followers/jaydeep6435?label=Followers&style=flat-square&color=F8BBD0">
-&nbsp;
-<img src="https://img.shields.io/github/stars/jaydeep6435?label=Stars&style=flat-square&color=FF69B4">
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🌸 About Me
 
-</div>
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<div align="center">
+### 👨‍💻 Hey, I'm Jaydeep!
 
-🎓 AI & Data Science Engineering Student  
-🐍 Python & Django Developer  
-🌐 Exploring Web Development  
-🧠 Learning Data Structures & Algorithms  
-📡 Interested in IoT & Emerging Technologies  
-🚀 Building practical, real-world projects  
-💡 Always learning and experimenting  
-
-</div>
+- 🎓 AI & Data Science Engineering Student
+- 🐍 Python & Django Developer
+- 🌐 Exploring Web Development
+- 🧠 Learning Data Structures & Algorithms
+- 📡 Interested in IoT & Emerging Technologies
+- 🚀 Building practical, real-world projects
+- 💡 Always learning, experimenting and improving
 
 <br>
 
-<div align="center">
+**✨ My goal:** Build useful things while continuously learning and improving.
 
-**✨ Learn continuously • Build consistently • Keep improving ✨**
+</td>
 
-</div>
+<td width="42%" valign="top">
+
+### 🛠️ Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript&perline=7">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=django,flutter,mysql,git,github,vscode,postman&perline=7">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=tensorflow&perline=7">
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,django,flutter,mysql,git,github,vscode,postman,tensorflow&perline=8">
-
-</div>
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
-
-## 🔥 GitHub Streak
-
-<br>
 
 <img src="https://streak-stats.demolab.com?user=jaydeep6435&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E">
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 🚀 My Projects
-
-<br>
-
-<a href="https://github.com/jaydeep6435/Polls_Project">
-<img src="https://img.shields.io/badge/Polls_Project-EF93C4?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/jaydeep6435/Django_Polls_Project">
-<img src="https://img.shields.io/badge/Django_Polls_Project-F8BBD0?style=for-the-badge&logo=django&logoColor=black">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/jaydeep6435/polls_Django">
-<img src="https://img.shields.io/badge/polls_Django-FF69B4?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="https://github.com/jaydeep6435/arithmetic-payment-app-">
-<img src="https://img.shields.io/badge/Arithmetic_Payment_App-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/jaydeep6435/neupe">
-<img src="https://img.shields.io/badge/Neupe-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/jaydeep6435/PRODIGY_DS_01">
-<img src="https://img.shields.io/badge/PRODIGY_DS_01-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="https://github.com/jaydeep6435?tab=repositories">
-<img src="https://img.shields.io/badge/View_All_Repositories-EF93C4?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydeep6435&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=GitHub%20Analytics" width="95%">
 
 </div>
 
 ---
 
+## 🐍 Contribution Graph
+
 <div align="center">
 
-## 🤝 Let's Connect
+<img src="https://raw.githubusercontent.com/jaydeep6435/jaydeep6435/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
-<br>
+</div>
 
-<a href="https://github.com/jaydeep6435">
-<img src="https://img.shields.io/badge/GitHub-jaydeep6435-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+---
 
-&nbsp;
+## 🌐 Let's Connect
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/jaydeep-dongre-1609132b5/">
-<img src="https://img.shields.io/badge/LinkedIn-Jaydeep_Dongre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/jaydeep6435">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://www.tiktok.com/@YOUR_USERNAME">
+<img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://youtube.com/@YOUR_USERNAME">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EF93C4?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -142,12 +136,10 @@
 
 <div align="center">
 
-### 🌸 Thanks for stopping by!
-
-**Code • Learn • Build • Repeat 🚀**
+**See you in the next commit 🌸**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=110&section=footer" width="100%">
 
 </div>
