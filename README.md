@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:4A183C,75:EF93C4,100:FF69B4&height=220&section=header&text=Jaydeep%20Dongre&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Engineering%20Student&descAlignY=58&descSize=18&descColor=EF93C4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:4A183C,100:EF93C4&height=220&section=header&text=Jaydeep%20Dongre&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Engineering%20Student&descAlignY=58&descSize=18&descColor=EF93C4" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=EF93C4&center=true&vCenter=true&repeat=true&width=650&lines=Turning+ideas+into+real-world+projects+%F0%9F%9A%80;Python+%7C+Django+%7C+Data+Structures;Exploring+AI%2C+Web+Dev+%26+IoT;Always+learning%2C+always+building" alt="Typing SVG" />
 
@@ -39,8 +39,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydeep6435&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&ring_color=EF93C4&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep6435&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF&langs_count=8" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=jaydeep6435&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&ring_color=EF93C4&include_all_commits=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jaydeep6435&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF&langs_count=8" height="165"/>
 
 </div>
 
@@ -72,11 +72,11 @@
 
 <div align="center">
 
-[![Polls_Project](https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=Polls_Project&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/Polls_Project)
-[![Django_Polls_Project](https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=Django_Polls_Project&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/Django_Polls_Project)
+[![Polls_Project](https://github-stats-extended.vercel.app/api/pin/?username=jaydeep6435&repo=Polls_Project&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/Polls_Project)
+[![Django_Polls_Project](https://github-stats-extended.vercel.app/api/pin/?username=jaydeep6435&repo=Django_Polls_Project&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/Django_Polls_Project)
 
-[![arithmetic-payment-app](https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=arithmetic-payment-app-&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/arithmetic-payment-app-)
-[![PRODIGY_DS_01](https://github-readme-stats.vercel.app/api/pin/?username=jaydeep6435&repo=PRODIGY_DS_01&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/PRODIGY_DS_01)
+[![arithmetic-payment-app](https://github-stats-extended.vercel.app/api/pin/?username=jaydeep6435&repo=arithmetic-payment-app-&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/arithmetic-payment-app-)
+[![PRODIGY_DS_01](https://github-stats-extended.vercel.app/api/pin/?username=jaydeep6435&repo=PRODIGY_DS_01&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&border_color=EF93C4)](https://github.com/jaydeep6435/PRODIGY_DS_01)
 
 </div>
 
